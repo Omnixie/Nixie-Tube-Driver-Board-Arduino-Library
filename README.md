@@ -11,7 +11,7 @@ Two examples are provided:
 1) A minimal 4-Nixie-tube display.
 2) A complete clock using 4 nixie tubes, 3 tactile buttons and 2 colon bulbs.
 
-![Flow Chart of the Complete 4-Nixie-tube Clock](images/Complete-4-Nixie-tube-Clock-Flow-Chart-v1)
+![Flow Chart of the Complete 4-Nixie-tube Clock](./images/Complete-4-Nixie-tube-Clock-Flow-Chart-v1)
 
 In order to make a complete clock, you will need:
 1) This KIT: https://nixie.ai/ntdb4
